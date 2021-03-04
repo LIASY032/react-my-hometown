@@ -6,3 +6,8 @@
   background-color: white;
   margin-top: 20px;
 }
+
+video {
+  padding-top: 150px;
+  float: right;
+}
