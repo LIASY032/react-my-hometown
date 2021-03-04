@@ -1,0 +1,19 @@
+.btn {
+  padding: 8px 8px;
+  border-radius: 9px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.btn--search {
+  border: none;
+  font-size: larger;
+  height: 1.5rem;
+  cursor: pointer;
+  /* border-radius: 18px; */
+}
+
+.btn--search > i {
+  font-size: 1.5rem;
+}

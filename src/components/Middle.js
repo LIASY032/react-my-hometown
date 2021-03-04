@@ -1,8 +1,9 @@
-import React from 'react'
+import React from 'react';
+import "./Middle.css";
 
 function Middle() {
     return (
-        <div>
+        <div className="middle-container">
             
         </div>
     )

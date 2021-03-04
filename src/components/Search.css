@@ -4,9 +4,20 @@
   padding: 10px 10px;
   margin-left: auto;
   margin-right: auto;
-  text-align: right;
 }
 input {
-  font-size: larger;
+  font-size: 1.5rem;
   border-radius: 9px;
+}
+.menu {
+  display: grid;
+
+  grid-template-columns: repeat(2, auto);
+  list-style: none;
+  text-align: center;
+  justify-content: end;
+}
+.select-language {
+  background-color: transparent;
+  color: white;
 }
