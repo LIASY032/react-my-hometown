@@ -1,0 +1,12 @@
+.logo {
+  font-size: 2rem;
+  color: white;
+}
+
+.header {
+  width: 1200px;
+  background-color: #ff9933;
+  padding: 10px 10px;
+  margin-left: auto;
+  margin-right: auto;
+}

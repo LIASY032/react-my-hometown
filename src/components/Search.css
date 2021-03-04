@@ -1,0 +1,12 @@
+.search-block {
+  width: 1200px;
+  background-color: transparent;
+  padding: 10px 10px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: right;
+}
+input {
+  font-size: larger;
+  border-radius: 9px;
+}
