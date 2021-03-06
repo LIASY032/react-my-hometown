@@ -2,6 +2,8 @@ import React from 'react'
 import Button from './Button'
 import "./Search.css"
 
+
+
 function Search() {
     return (
         <div className="search-block">

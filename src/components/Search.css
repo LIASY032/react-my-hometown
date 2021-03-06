@@ -20,4 +20,5 @@ input {
 .select-language {
   background-color: transparent;
   color: white;
+  border-radius: 50%;
 }

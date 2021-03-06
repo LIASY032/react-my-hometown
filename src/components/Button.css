@@ -17,3 +17,14 @@
 .btn--search > i {
   font-size: 1.5rem;
 }
+
+.btn--next {
+  color: black;
+  display: flex;
+  background-color: black;
+  position: absolute;
+  top: 50%;
+  z-index: 999;
+  /* opacity: 0.5; */
+  cursor: pointer;
+}
