@@ -1,12 +1,30 @@
 .logo {
   font-size: 2rem;
   color: white;
+  display: flex;
 }
 
 .header {
   width: 1200px;
-  background-color: #ff9933;
+  background-color: #003366;
   padding: 10px 10px;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 1rem;
+  position: sticky;
+  display: flex;
+  justify-content: end;
+}
+
+.rightBar {
+  float: right;
+  display: grid;
+  grid-template-columns: repeat(7, auto);
+  grid-gap: 10px;
+  list-style: none;
+  text-align: center;
+  width: 60vw;
+  justify-content: end;
+  margin-right: 2rem;
+  color: white;
 }
