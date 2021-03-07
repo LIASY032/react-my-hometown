@@ -41,7 +41,7 @@
   /* background-color: rgb(26, 141, 78); */
   width: 100%;
   height: 1000px;
-  font-family: "Roboto Mono", monospace;
+  font-family: "PT Sans", sans-serif;
 
   background-image: url("./images/background.jpeg");
   background-position: center;

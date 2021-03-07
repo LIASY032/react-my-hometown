@@ -18,29 +18,31 @@ import "./Header.css"
 function Header() {
     return (
         <div className="header">
-            <div className="logo">
+            <Link to="/" className="logo">
+                
                 Enping<i class="fab fa-pagelines"></i>
-            </div>
+           
+            </Link>
             <ul className="rightBar">
-                <Link to="/tower">
+                <Link to="/tower" className='nav-links'>
                     Tower
                 </Link>
-                <Link to="/blockhouse">
+                <Link to="/blockhouse" className='nav-links' >
                     Blockhouse
                 </Link>
-                <Link to="/museum">
+                <Link to="/museum" className='nav-links' >
                     Museum
                 </Link>
-                <Link to="/jurenvillage">
+                <Link to="/jurenvillage" className='nav-links' >
                     Juren Village
                 </Link>
-                <Link to="/oldstreet">
+                <Link to="/oldstreet" className='nav-links' >
                     Old Street
                 </Link>
-                <Link to="/spring">
+                <Link to="/spring" className='nav-links' >
                     Spring
                 </Link>
-                <Link to="/aofengpark">
+                <Link to="/aofengpark" className='nav-links' >
                     Ao Feng Park
                 </Link>
 
