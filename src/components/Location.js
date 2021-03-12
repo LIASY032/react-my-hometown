@@ -28,10 +28,10 @@ function Location() {
                 
                 <br />Now, to Xi Chun Tower as the center of the newly built pagoda park, garden wide variety of different flowers, become the best place for citizens to relax.
             </p>
-            
+            <Map></Map>
             <div className="map">
              
-                <Map></Map>
+                
                   
 
             </div>

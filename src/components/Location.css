@@ -22,7 +22,9 @@
 }
 
 .map {
-  left: 200px;
+  justify-content: end;
+  justify-items: end;
+  text-justify: inherit;
 }
 
 .image-top {

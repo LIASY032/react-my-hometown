@@ -31,7 +31,7 @@ function Map() {
    return(
       <div>
         <GoogleMapExample
-          containerElement={ <div style={{ height: `500px`, width: '500px', textAlign: "center"}} /> }
+          containerElement={ <div style={{ height: `400px`, width: '400px', marginLeft: "33.33%"}} /> }
           mapElement={ <div style={{ height: `100%`, textAlign:"center" }} /> }
         />
       </div>
